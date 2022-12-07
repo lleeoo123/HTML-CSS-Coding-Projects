@@ -1,3 +1,15 @@
-input[name="First name"] {
-   width: 40px; 
+body {
+  color: red;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+}
+
+input {
+  width: 25%;
+  margin: 8px 0;
+}
+
+input[type=text] {
+  border: 2px solid red;
+  border-radius: 4px;
 }
